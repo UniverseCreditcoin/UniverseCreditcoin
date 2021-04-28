@@ -1,0 +1,18 @@
+ 
+Verify checksum after download. If not match somehow, DO NOT USE the correspondent app and let us to know about.
+
+universecreditd:
+MD5:  954a2d5de4f6d42086feb732cd8de82c
+SHA256:  15a619a5d88749159fb5bab2f759a9cd45ab749bb9a1e52e687a151fc2ff443f
+
+universecredit-cli
+MD5:  80c5c10fc6b55a01ef91d2e92f3592fe
+SHA256:  29be10892691c4b7e0e84902bcc5ba900494b2d1235826e4615dba5ff28f9513
+
+universecredit-tx
+MD5:  b50783103da3ddbc81667119f0a3b87c
+SHA256:  52b6ad608941d28437942b12cbbb4fe18c251cf36e62ad39c847ebe062199e9c
+
+universecredit-qt
+MD5:  614893b6e0b44102fa2898dd0abc237e
+SHA256:  749acd3f0be0f84f41cb0500ff842ad05c26189980212c344a7c70d6d2e142b2
