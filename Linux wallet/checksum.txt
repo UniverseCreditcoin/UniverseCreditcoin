@@ -1,5 +1,5 @@
  
-Verify checksum after download. If not match somehow, DO NOT USE the correspondent app and let us to know about.
+Verify checksum after download. If not match somehow, DO NOT USE the correspondent app and let us to know about. We recommend to use GtkHash.
 
 universecreditd:
 MD5:  954a2d5de4f6d42086feb732cd8de82c
